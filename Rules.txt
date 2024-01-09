@@ -1,0 +1,10 @@
+                                                                          *****Rules*****
+1) This game consists of 8 different shapes that you need to guess with the correct spelling.
+2) Once you cross 50% of the game, it will ask you each time to increase the level. If you say yes, it will start displaying harder shapes. If you say no, the game will end.
+3) When you say yes and move to a difficult level, if you give your answer correctly with no spaces between the words, it will ask you again if you want to play or quit.
+4) For a wrong answer in the harder level, the game will end and display your result.
+5) At this stage of the game, you have to be more specific with the name of the shapes. For example, if the shape printed is not solid, you should mention that it's a hollow .
+6) The shapes used in this game are as follows, and from this list, you need to identify the shape:
+   ["square", "rectangle", "triangle", "rhombus", "HollowRectangle", "rightangletriangle", "invertedtriangle", "butterfly", "cylinder", "cone"]
+
+***Warning***: Everything is context-sensitive; don't worry about capitalization, but you need to be careful with spaces and spelling that why for spelling list is provided. There might be some additional shape put in the list to confuse you now needed to identify which shape is on the screen from list  
