@@ -1,2 +1,36 @@
-# Python
-Hello, my name is Bhagya Patel, and I've created a game called Zephyro. This game is designed for children in the age group of 7-12 years. To explain, in this game, we initially check if the user is a human player by asking them to retype the number displayed on the screen. If the user fails to enter the correct value, the game will end. To play again, you need to rerun the code. However, if the user enters the correct value, the game name and rules will be displayed. To start the game, the user needs to press enter. Once they do, they will be prompted with a shape, and they must answer with the name of the shape from the list provided in the rules section. It's crucial to be careful because everything is case-sensitive, so the spelling must match exactly as provided in the list. If the user answers correctly, their score will increase by 1 for each correct response. To avoid repetition, the game will remove the shapes from the list once user guess it correct . In the case of an easy shape, the user gets another chance to guess. In total, the user has 8 chances. Once they have guessed more than 50% for easy shapes, the game will ask if they want to increase the difficulty level. If the user agrees, the game will present slightly more challenging shapes. If the user guesses any shape wrong, the game will end, displaying the result. If the user guesses correctly, it will ask if they still want to increase the difficulty. If the user is satisfied with the result, they may end the game by saying no. The end result which is provided is out of number of chances provided to guess which is 8 and percentage display accordingly. Lastly, it's crucial to enter the spelling correctly. The user need to score more than 80% to win .
+# 🎮 Zephyro
+
+Hello! 👋 My name is Bhagya Patel, and I’m excited to introduce you to **Zephyro**! This fun and interactive game is designed for children aged 7-12 years. 🌈
+
+## How to Play 🚀
+
+1. **Human Verification**: 
+   - At the start of the game, you will see a number displayed on the screen. Please retype it correctly. If you fail, the game will end. 😔
+   - To play again, simply rerun the code! 🔄
+
+2. **Game Rules**:
+   - After passing the verification, you will see the name of the game and the rules. To begin, press **Enter**! 🎉
+   - You will be presented with a shape and must answer with the name of the shape from the list provided in the rules section. 📏
+   - **Note**: Everything is case-sensitive, so make sure the spelling matches exactly! 🔤
+
+3. **Scoring**:
+   - For each correct answer, your score will increase by 1! 👍
+   - Once you guess a shape correctly, it will be removed from the list to avoid repetition. 🗑️
+   - You have a total of **8 chances** to guess shapes. 
+
+4. **Difficulty Levels**:
+   - If you correctly guess more than **50%** of the easy shapes, you’ll be asked if you want to increase the difficulty. If you say yes, you will be presented with slightly more challenging shapes! 😅
+   - If you guess incorrectly, the game will end, and your result will be displayed. 📉
+   - If you’re satisfied with your score, you can end the game by saying "no" when asked if you want to increase the difficulty. 🚫
+
+5. **Winning**:
+   - To win the game, you need to score **more than 80%**! 🏆
+
+## Important Reminder ⚠️
+Make sure to enter the spelling correctly! The success of your game depends on it! 😉
+
+---
+
+Have fun playing **Zephyro** and let’s see how well you can guess those shapes! 🌟
+
+Feel free to contribute or share your feedback! 💬
